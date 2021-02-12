@@ -11,6 +11,7 @@ auraxium
 tkinter
 colorsys
 pyautogui
+cx_Freeze
 ```
 
 You will require a PS2 API Service ID.
