@@ -4,14 +4,23 @@ auto v6 for planetside2
 
 you will require the following libraries
 
+```
+asyncio
+sys
+auraxium
+tkinter
+colorsys
+pyautogui
+```
 
-"asyncio"
-"sys"
-"auraxium"
-"tkinter"
-"colorsys"
-"pyautogui"
+You will require a PS2 API Service ID.
+Apple for ID here http://census.daybreakgames.com/#service-id
+Enter in your ID in Line 16 of SALT.py
 
+Example:
+```
+(service_id='s:1234')
+```
 
 run 
 ```
