@@ -13,7 +13,7 @@ def keyboard_v6():
     
 async def api_query(player_name):
     print(f"listen on player {player_name}'s killing")
-    client = auraxium.EventClient(service_id='s:5825')
+    client = auraxium.EventClient(service_id='enterserviceidhere')
     char = await client.get_by_name(ps2.Character, player_name)
     char_id = char.id
     print(f"player {player_name}'s id {char_id}")
