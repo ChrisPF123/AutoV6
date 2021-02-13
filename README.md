@@ -16,7 +16,7 @@ cx_Freeze
 ```
 
 You will require a PS2 API Service ID.
-Apple for ID here http://census.daybreakgames.com/#service-id
+Apply for ID here http://census.daybreakgames.com/#service-id
 Enter in your ID in Line 16 of SALT.py
 
 Example:
