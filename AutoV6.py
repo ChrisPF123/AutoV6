@@ -27,7 +27,7 @@ async def api_query(player_name):
 root = Tk()
 userInput = StringVar(root)
 root.geometry("225x200") 
-root.title("SALT Auto V6")
+root.title("Auto V6")
 
 l = Label(text = "Keyboard Key Selection") 
 l.pack()
