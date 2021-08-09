@@ -17,7 +17,7 @@ cx_Freeze
 
 You will require a PS2 API Service ID.
 Apply for ID here http://census.daybreakgames.com/#service-id
-Enter in your ID in Line 16 of SALT.py
+Enter in your ID in Line 16 of AutoV6.py
 
 Example:
 ```
