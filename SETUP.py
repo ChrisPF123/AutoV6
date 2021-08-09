@@ -2,7 +2,7 @@ from cx_Freeze import setup, Executable
 
 base = None    
 
-executables = [Executable("SALT.py", base=base)]
+executables = [Executable("AutoV6.py", base=base)]
 
 packages = ["asyncio", "sys", "auraxium", "tkinter", "colorsys", "pyautogui"]
 options = {
@@ -12,9 +12,9 @@ options = {
 }
 
 setup(
-    name = "SALT Auto V6",
+    name = "Auto V6",
     options = options,
     version = "1.0",
-    description = 'SALT Auto V6',
+    description = 'Auto V6',
     executables = executables
 )
